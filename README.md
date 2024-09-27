@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/drys26" target="blank"><img src="https://img.shields.io/twitter/follow/drys26?logo=twitter&style=for-the-badge" alt="drys26" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-a590c.web.app/](https://portfolio-a590c.web.app/)
+- 👨‍💻 My Website [https://portfolio-a590c.web.app/](https://portfolio-a590c.web.app/)
 
 - 💬 Ask me about **React, Node, AWS**
 
